@@ -18,31 +18,31 @@
     "website": "https://github.com/8769ANURAG/EvaMaria",
     "repository": "https://github.com/8769ANURAG/EvaMaria",
     "env": {
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {5945048757:AAFsgQj9DSYwbwkdHIIFgLRRRlHstwsw9lM
             "description": "Your bot token.",
             "required": true
         },
-        "API_ID": {
+        "API_ID": {24690581
             "description": "Get this value from https://my.telegram.org or @USERS_RO_BOT",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {9f8082811c4e168f298e4574da790383
             "description": "Get this value from https://my.telegram.org or @USERS_RO_BOT",
             "required": true
         },
-        "CHANNELS": {
+        "CHANNELS": {-1001859338601
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
             "required": false
         },
-        "ADMINS": {
+        "ADMINS": {24690581
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
-        "PICS": {
+        "PICS": {false
             "description": "Add some telegraph link of pictures .",
             "required": false
         },
-        "LOG_CHANNEL": {
+        "LOG_CHANNEL": {-1001859338601
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
             "required": true
         },
@@ -54,11 +54,12 @@
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
             "required": false
         },
-        "DATABASE_URI": {
+        "DATABASE_URI": {mongodb+srv://TONY247:8g4z?a8mW-G%mRk@cluster0.rvjokcs.mongodb.net/?retryWrites=true&w=majority
+
             "description": "mongoDB URI. Get this value from https://www.mongodb.com.",
             "required": true
         },
-        "DATABASE_NAME": {
+        "DATABASE_NAME": {cluster0
             "description": "Name of the database in mongoDB.",
             "required": false
         },
